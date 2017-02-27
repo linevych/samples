@@ -100,3 +100,4 @@ gen
 
 *.sqlite3
 staticfiles/
+.directory
